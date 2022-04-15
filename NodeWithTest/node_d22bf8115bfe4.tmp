@@ -1,0 +1,10 @@
+var http = require('http');
+
+http.createServer().listen(8081);
+console.log("Servidor rodando!")
+
+// http é a minha variável
+// .creatServer no Node é a função que abre um servidor HTTP.
+// .listen informa em qual porta de rede eu quero abrir um servidor (porta 80, 90,99).
+// porém, outros aplicativos já podem estar utilizando essa porta, e vir a gerar conflitos. 
+// utilizar uma porta com número alto (8081) evita de ocorrer conflito.
