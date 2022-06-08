@@ -21,4 +21,5 @@ function promessa(bool) {
     .then((texto) => exibeResposta(texto))
    // sucesso na promessa
 
-// Two parameters: resolve and reject, when I use new Promise() method. 
+// Two parameters: resolve and reject, when I use new Promise() method.
+
