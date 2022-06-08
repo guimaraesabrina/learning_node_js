@@ -22,7 +22,7 @@ function getFile(pathFile) {
 
 }
 
-getFile('./index.md')
+getFile('../assets/index.md')
 
 //running fylesystem 
 // synchronous code vs asynchronous code
