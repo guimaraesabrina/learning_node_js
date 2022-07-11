@@ -41,8 +41,7 @@ const regex = /\[([^\]]*)\]\((https?:\/\/[^$#\s].[^\s]*)\)/gm;
 // /expressão regular aqui/
 
 
-
-
+//ex2: capturar apenas o domínio e o protocolo do texto contido dentro da pasta 'assets'
 
 
 
