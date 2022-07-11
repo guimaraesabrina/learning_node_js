@@ -26,3 +26,11 @@ Visite o código: [Projeto Markdown Review](https://github.com/guimaraesadev/nod
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 </div>
+
+<p align="center">Objetivos:</p>
+
+- [X] Criar uma API nos padrões *RESTFul*
+- [X] Criar um *CRUD*;
+- [X] Os *endpoints* serão criados com os verbos HTTP;
+- [X] As respostas serão baseadas em *JSON*, retornando o *status* correto; 
+- [X] Terá a aplicação de validações;

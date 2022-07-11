@@ -1,7 +1,0 @@
-- API será baseada no framework Express para tratar requisições e enviar respostas aos endpoints;
-- Utilizando o MongoDB como Database; 
-- Utilizar o Mongoose; 
-- Mongoose é uma ODM 
-- Utilizar MongoDB Atlas; (Serviço em Cloud)
-- Utilizar o Nodemon para atualizar a aplicação;
-- API será testada pelo Insomnia/Postman
